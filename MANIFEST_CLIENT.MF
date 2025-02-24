@@ -1,0 +1,2 @@
+Main-Class: client.Client
+Class-Path: lib/json-20210307.jar
